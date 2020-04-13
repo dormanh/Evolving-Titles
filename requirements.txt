@@ -1,0 +1,13 @@
+numpy
+string
+pandas
+pickle
+sklearn
+nltk
+matplotlib
+requests
+textblob
+random
+bs4
+copy
+multiprocessing
